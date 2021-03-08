@@ -1,5 +1,6 @@
 todo.txt
 secrets.txt
+*.replay
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
